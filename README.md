@@ -10,7 +10,7 @@
 <a target="_blank" href="https://lightning.ai/camenduru/studios/t2v-turbo-jupyter"> <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> | t2v_turbo_jupyter (Free Lightning Studio)
 
 ### 🧬 Code
-https://github.com/Ji4chenLi/t2v-turbo?tab=readme-ov-file
+https://github.com/Ji4chenLi/t2v-turbo
 
 ### 📄 Paper
 https://arxiv.org/abs/2405.18750
