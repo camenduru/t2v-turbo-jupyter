@@ -19,7 +19,7 @@ https://arxiv.org/abs/2405.18750
 https://t2v-turbo.github.io/
 
 ### 🖼 Output
-
+![Screenshot 2024-06-10 160007](https://github.com/camenduru/t2v-turbo-jupyter/assets/54370274/0c2752d7-26ae-41ce-9e46-ebbabd1552ec)
 
 ### 🏢 Sponsor
 https://runpod.io
