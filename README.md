@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/t2v-turbo-jupyter/blob/main/t2v_turbo_jupyter.ipynb) | t2v-turbo_jupyter (Pro Colab 😭 ~17GB RAM)
+<a target="_blank" href="https://lightning.ai/camenduru/studios/t2v-turbo-jupyter"> <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> | t2v_turbo_jupyter (Free Lightning Studio)
 
 ### 🧬 Code
 https://github.com/Ji4chenLi/t2v-turbo?tab=readme-ov-file
